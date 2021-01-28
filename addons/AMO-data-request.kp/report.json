@@ -8,6 +8,7 @@
         "add-ons",
         "firefox-desktop"
     ],
+    "public": true,
     "publish_date": "2017-01-09",
     "updated_at": "2017-01-09",
     "tldr": "Get metadata for an add-on through AMO given its GUID"

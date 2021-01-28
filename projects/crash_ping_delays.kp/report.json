@@ -7,6 +7,7 @@
         "main ping",
         "delay"
     ],
+    "public": true,
     "publish_date": "2017-01-27",
     "updated_at": "2017-01-27",
     "tldr": "How long does it take before we get crash pings from users in each channel?"

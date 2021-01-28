@@ -9,6 +9,7 @@
         "telemetry",
         "spark"
     ],
+    "public": true,
     "publish_date": "2016-03-10",
     "updated_at": "2018-05-25",
     "tldr": "Brief introduction to Spark and Telemetry in Python"

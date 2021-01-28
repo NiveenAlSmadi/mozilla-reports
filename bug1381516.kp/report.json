@@ -8,6 +8,7 @@
         "keyed histograms",
         "archaeology"
     ],
+    "public": true,
     "publish_date": "2017-07-17",
     "updated_at": "2017-07-17",
     "tldr": "How broadly and how deeply do the effects of bug 1380880 extend?"

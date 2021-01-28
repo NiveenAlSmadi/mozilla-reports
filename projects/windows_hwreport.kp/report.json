@@ -7,6 +7,7 @@
         "hardware report",
         "windows"
     ],
+    "public": true,
     "publish_date": "2017-04-05",
     "updated_at": "2017-04-05",
     "tldr": "This is a one-off ETL job for getting separate hardware reports for users runing Windows 7 or Windows 10."

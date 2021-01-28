@@ -6,6 +6,7 @@
     "tags": [
         "firefox, telemetry, health"
     ],
+    "public": true,
     "publish_date": "2017-08-24",
     "updated_at": "2017-08-24",
     "tldr": "Validate incoming data for the new health ping and look at how clients behave."

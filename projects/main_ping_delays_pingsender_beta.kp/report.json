@@ -8,6 +8,7 @@
         "delay",
         "pingSender"
     ],
+    "public": true,
     "publish_date": "2017-06-22",
     "updated_at": "2017-06-22",
     "tldr": "How long does it take before we get main pings from users that have pingSender vs users who don't, in the Beta channel?"

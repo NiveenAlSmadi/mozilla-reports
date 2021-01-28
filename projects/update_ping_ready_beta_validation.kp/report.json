@@ -8,6 +8,7 @@
         "update",
         "latency"
     ],
+    "public": true,
     "publish_date": "2016-08-18",
     "updated_at": "2016-08-18",
     "tldr": "This notebook verifies that the `update` ping with `reason = ready` behaves as expected on Beta."

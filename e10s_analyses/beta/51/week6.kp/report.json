@@ -10,6 +10,7 @@
         "experiment",
         "add-ons"
     ],
+    "public": true,
     "publish_date": "2017-01-10",
     "updated_at": "2017-01-10",
     "tldr": "Analysis of e10s experiment for profiles with and without add-ons"

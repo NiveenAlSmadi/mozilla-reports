@@ -8,6 +8,7 @@
         "aurora 51",
         "one client"
     ],
+    "public": true,
     "publish_date": "2017-04-28",
     "updated_at": "2017-04-28",
     "tldr": "More explorations into that 'one' Aurora 51 client"
